@@ -3,7 +3,6 @@
 
 # Istio: Traffic Management for your Microservices
 
-*Read this in other languages: [한국어](README-ko.md).*
 
 Microservices and containers changed application design and deployment patterns, but along with them brought challenges like service discovery, routing, failure handling, and visibility to microservices. "Service mesh" architecture was born to handle these features. Applications are getting decoupled internally as microservices, and the responsibility of maintaining coupling between these microservices is passed to the service mesh.
 
